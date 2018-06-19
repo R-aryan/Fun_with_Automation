@@ -20,6 +20,12 @@ while True:
 
     
     else:
+        with open(hosts_temp,'r+') as file:
+            content=file.readlines()
+            for line in content:
+                if not any(website in line for website in website_list):
+                    files.write(line)
+            #print(content)
         print("fun hours....")
     time.sleep(5)
 
