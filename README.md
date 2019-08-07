@@ -9,4 +9,7 @@ This project requires **Python 2.7 or above for the purpose** and the following 
 - [For Python Latest version Checkout this Link](https://www.python.org/downloads/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+
+
 
