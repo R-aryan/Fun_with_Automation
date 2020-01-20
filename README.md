@@ -4,7 +4,7 @@ Some of  Scripts which I have written in python  to automate some day to day tas
 
 ### Required Installations 
 
-This project requires **Python 2.7 or above for the purpose** and the following Python libraries installed:
+This project requires **Python 3.0 or above for the purpose** and the following Python libraries installed:
 
 - [For Python Latest version Checkout this Link](https://www.python.org/downloads/)
 - [NumPy](http://www.numpy.org/)
